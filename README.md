@@ -1,9 +1,10 @@
 # RestAssured-Maven
 
 REST api Testing using RestAssured 
--Authentication
--Data 
 
- test cases  associated with Authentication of API calls.
 
-Stack : Rest Assured, Postman, REST API, Java, Maven, Junit
+Test cases  associated with Authentication of API calls. 
+User Authentication Test.
+End to End API  Chainig Testing
+
+Stack : Rest Assured, Postman, REST API, Java, Maven, JUnit
