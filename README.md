@@ -1,10 +1,6 @@
 # RestAssured-Maven
 
-REST api Testing using RestAssured 
-
-
-Test cases  associated with Authentication of API calls. 
-User Authentication Test.
-End to End API  Chaining Testing
-
-Stack : Rest Assured, Postman, REST API, Java, Maven, JUnit
+Successfully executed REST API testing utilizing Rest Assured framework.
+Authored test cases associated with authentication of API calls, including User Authentication Testing and end-to-end API chaining testing.
+Implemented using Java programming language and TestNG annotations.
+Proficient in using technologies such as Rest Assured, Postman, REST API, Java, Maven, TestNG, JSON, and Linux.
